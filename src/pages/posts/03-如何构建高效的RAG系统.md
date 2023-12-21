@@ -1,4 +1,10 @@
-##  如何“学习AI”？
+<img src="https://my-wechat.oss-cn-beijing.aliyuncs.com/GBjPdwrawAAMfRt.jpeg" width="800" />  
+
+<small>如何“学习AI</small>  
+
+机器学习周刊：关注Python、机器学习、深度学习、大模型等硬核技术  
+
+###  如何“学习AI”？
 
 最近X上有推友重提这篇文章，是网友看过 Jeremy 教授的 fast.ai 深度学习课程后，把每节课提到的学习建议和忠告都总结了下来：https://forums.fast.ai/t/things-jeremy-says-to-do/36682/1
 

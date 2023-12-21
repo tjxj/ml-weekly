@@ -1,16 +1,16 @@
 {
   "name": "weekly",
-  "description": "潮流周刊，记录工程师 Tw93 的不枯燥生活，每周一发布，希望你喜欢",
+  "description": "关注Python、机器学习、深度学习、大模型，欢迎订阅",
   "type": "module",
   "version": "0.2.0",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/tw93/weekly.git"
+    "url": "https://github.com/tjxj/ml-weekly.git"
   },
   "author": {
-    "name": "Tw93",
-    "email": "tw93@qq.com"
+    "name": "tjxj",
+    "email": "tjxj@qq.com"
   },
   "license": "MIT",
   "scripts": {
