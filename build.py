@@ -10,7 +10,7 @@ def fetch_ci_time(filePath):
 
 if __name__ == "__main__":
     readmefile = open('README.md', 'w')
-    readmefile.write("# 机器学习周刊\n\n> 关注Python、机器学习、深度学习、大模型，欢迎订阅\n\n > Fork From https://github.com/tw93/weekly")
+    readmefile.write("# 机器学习周刊\n\n> 关注Python、机器学习、深度学习、大模型，欢迎订阅\n\n > Fork From https://github.com/tw93/weekly \n\n")
 
     for root, dirs, filenames in os.walk('./src/pages/posts'):
         # Ensure that the file has a number to sort by, defaulting to 0 if not
