@@ -41,14 +41,8 @@ function defaultLayoutPlugin() {
       //这里特殊处理了下，因为之前的weekly迁移过来后，createDate不对了，通过规律重写了下，100期以后直接读取
       if (SITE.repo === 'tjxj/ml-weekly') {
         const num = filePath.split('/posts/')[1].split('-')[0];
-        if (num < 100) {
-          file.data.astro.frontmatter.date = dayjs('2022-10-10')
-            .subtract(100 - num, 'week')
-            .format('YYYY/MM/DD');
-        } else {
-          file.data.astro.frontmatter.date = createDate;
-        }
-
+        file.data.astro.frontmatter.date = createDate;
+    
         //对于110期以后的，由于原有封面图不支持twitter，这里兼容一下
         if (num >= 110) {
           file.data.astro.frontmatter.twitterImg = `https://weekly.zhanglearning.com/assets/${num}.jpg`;
