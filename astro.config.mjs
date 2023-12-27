@@ -37,8 +37,7 @@ function defaultLayoutPlugin() {
     //这里也可以直接在 frontmatter，赋值给 date 字段
     if (!date) {
       const createDate = dayjs(fs.statSync(filePath).birthtime).format('YYYY/MM/DD');
-
-      //这里特殊处理了下，因为之前的weekly迁移过来后，createDate不对了，通过规律重写了下，100期以后直接读取
+  
       if (SITE.repo === 'tjxj/ml-weekly') {
         const num = filePath.split('/posts/')[1].split('-')[0];
         file.data.astro.frontmatter.date = createDate;
