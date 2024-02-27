@@ -190,7 +190,7 @@ CodeLlama-70B-Instruct 在 HumanEval 上获得 67.8 分，使其成为当今性�
 
 https://ai.meta.com/blog/code-llama-large-language-model-coding/
 
-<video src="/Users/huhaiyang/Downloads/GFElBBXbkAAWdBb.mp4"></video>
+![](https://r2.zhanglearning.com/blog/2024/02/da817fc645305653fd1cf1ee2b59b746.gif)
 
 Code Llama 70B 型号可在与 Llama 2 和之前的 Code Llama 型号相同的许可下使用，以支持研究和商业用途。
 
