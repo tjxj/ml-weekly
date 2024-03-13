@@ -1,8 +1,8 @@
 ---
 date: 2024/03/12
 ---
+<img src="https://r2.zhanglearning.com/blog/2024/03/adcd4619df37b2899137485d1f7b54e0.png" width="800" />  
 
-![](https://r2.zhanglearning.com/blog/2024/03/adcd4619df37b2899137485d1f7b54e0.png)
 
 <small>Anthropic 最新发布的 Claude 3 号称多方便暴打GPT-4</small>
 
