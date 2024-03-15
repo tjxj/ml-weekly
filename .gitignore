@@ -17,6 +17,7 @@ pnpm-debug.log*
 
 # macOS-specific files
 **/.DS_Store
+src/.DS_Store
 .DS_Store
 .idea/
 .vscode
