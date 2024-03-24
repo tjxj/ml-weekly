@@ -3,6 +3,7 @@ date: 2024/03/24
 ---
 
 <img src="https://r2.zhanglearning.com/2024/03/74d578e84628fc98845d98f49993c58d.JPG" width="800" />  
+
 <small>苹果据称正在与Google进行讨论，准备将Google的Gemini模型接入到iPhone</small>
 
 1、用Excel 学习 ChatGPT 工作原理  
