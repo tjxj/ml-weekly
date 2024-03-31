@@ -8,8 +8,15 @@ date: 2024/03/31
 <small>无论您是歌手还是排行榜艺术家，我们都会打破您与您梦想创作的歌曲之间的障碍。不需要任何工具，只需要想象力</small>  
 
 
-
-[TOC]
+1、AI 创作音乐——Suno
+2、开源大模型王座再易主，1320 亿参数 DBRX 上线
+3、AI21 发布世界首个 Mamba 的生产级模型：Jamba
+4、Google Gemini API Cookbook
+5、claude-opus-to-haiku
+6、仿 Duolingo 开源项目
+7、开源全栈商城项目：C-Shopping 
+6、动画算法与数据结构
+9、一款开源、全能的下载工具
 
 ### 1、AI 创作音乐——Suno
 
@@ -19,9 +26,10 @@ AI 音乐生成软件 Suno 发布 V3 版本，仅需要简单的描述，就可�
 
 ![](https://r2.zhanglearning.com/2024/03/129c4e17a115182de563977fd7b2a981.png)
 
-Suno 创作音乐的小技巧：
+Suno 创作音乐的小技巧：  
 1、如果你想参考某个现有歌曲的节奏，可以在这个网站查询歌曲的 BPM 和 Key，作为提示词写进去。
 https://songbpm.com
+
 2、歌词里，可以在歌词段落前加[Verse]（主歌）、[Rap]（说唱）、[Chorus]（副歌/高潮）、[Intro]（印子）来告诉 AI 这段歌词应该怎么唱。
 
 ### 2、开源大模型王座再易主，1320 亿参数 DBRX 上线
@@ -77,7 +85,7 @@ https://github.com/google-gemini/gemini-api-cookbook
 
 提供了：
 
--入门指南：提供了一个简短的入门指南，帮助开发者开始使用 Gemini API 进行构建。
+- 入门指南：提供了一个简短的入门指南，帮助开发者开始使用 Gemini API 进行构建。
 
 - 快速开始：包括写作提示和使用 API 不同特性的快速开始教程。
 
