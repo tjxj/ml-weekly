@@ -9,7 +9,8 @@ date: 2024/04/14
 
 [TOC]
 
-### 1、OpenAI 推出 GPT-4 Turbo,
+### 1、OpenAI 推出 GPT-4 Turbo
+
 4 月 10 日，OpenAI 宣布经过重大改进的 GPT-4 Turbo 模型现已在 API 中可用，并在 ChatGPT 中推出。
 
 最新版本为“gpt-4-turbo-2024-04-09”，自带读图能力，无需使用 4v 接口，具有 128k 上下文。
