@@ -245,4 +245,4 @@ Morphic 使用 OpenAI 的 API 和@tavilyai 的搜索服务，就能够提供类�
 
 ![](https://r2.zhanglearning.com/blog/2024/04/89b1474421e074ea8143cba869cb1fb8.png)
 
-![](https://my-wechat.oss-cn-beijing.aliyuncs.com/image-20240129111815736.png)
+![](https://my-wechat.oss-cn-beijing.aliyuncs.com/WX20230912-203916-20231216224408112-20231216224501243.png)
