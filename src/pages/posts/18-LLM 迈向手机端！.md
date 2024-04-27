@@ -154,11 +154,11 @@ https://github.com/facebookresearch/llm-transparency-tool
 
 
 ### 10、mistral 系列模型
-mistral large：闭源，他家最强的模型，接近 gpt-4
-mistral next：闭源，传言是新架构的模型
-mistral medium：闭源，大致对应千问 1.5 72b 的能力
-mixtral 8x22b：目前开源最佳
-mistral small：即 mixtral 8x7b，最早的开源 moe 模型
+mistral large：闭源，他家最强的模型，接近 gpt-4  
+mistral next：闭源，传言是新架构的模型  
+mistral medium：闭源，大致对应千问 1.5 72b 的能力  
+mixtral 8x22b：目前开源最佳  
+mistral small：即 mixtral 8x7b，最早的开源 moe 模型  
 mistral tiny：即 mistral 7b，7b 最佳基座
 
 ![](https://r2blog.zhanglearning.com/2024/04/a1d23f6d21faa311abe01b3d24f2c91f.png)
