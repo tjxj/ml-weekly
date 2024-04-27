@@ -19,7 +19,7 @@ date: 2024/03/31
 
 博客：https://qwenlm.github.io/zh/blog/qwen1.5-110b/
 
-Demo：https://huggingface.co/spaces/Qwen/Qwen1.5-110B-Chat-demo
+Demo: https://huggingface.co/spaces/Qwen/Qwen1.5-110B-Chat-demo
 
 阿里开源了 qwen1.5-110b 模型，模型在基础能力评估中与 Meta-Llama3-70B 相媲美，在 Chat 评估中表现出色，包括 MT-Bench 和 AlpacaEval 2.0。
 
@@ -60,7 +60,7 @@ openelm 采用按层分配参数的策略，有效提升了 transformer 模型�
 
 cohere 开源的工具包，用于开发 rag 应用，可以一键部署到微软 azure 上，也可以本地部署。
 
-github：https://github.com/cohere-ai/cohere-toolkit
+github: https://github.com/cohere-ai/cohere-toolkit
 
 
 ![](https://r2blog.zhanglearning.com/2024/04/71064a6ac891549f9d85d64c25e1535b.png)
@@ -160,3 +160,5 @@ mistral medium：闭源，大致对应千问 1.5 72b 的能力
 mixtral 8x22b：目前开源最佳
 mistral small：即 mixtral 8x7b，最早的开源 moe 模型
 mistral tiny：即 mistral 7b，7b 最佳基座
+
+![](https://r2blog.zhanglearning.com/2024/04/a1d23f6d21faa311abe01b3d24f2c91f.png)
