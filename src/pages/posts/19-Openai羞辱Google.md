@@ -1,10 +1,9 @@
 ---
 date: 2024/05/16
 ---
-
 <img src="https://r2.zhanglearning.com/blog/2024/05/179e74101af5f06b1f6aa8e32241b51d.png" width="800" />  
 
-<small>https://haitang.app/ 海棠诗社：每一首诗都有简介、注释、翻译、评价</small>  
+<small>海棠诗社 haitang.app 每一首诗都有简介、注释、翻译、评价</small>  
 
 
 
