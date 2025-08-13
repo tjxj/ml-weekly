@@ -1,5 +1,5 @@
 export const SITE = {
-  title: '机器学习周刊',
+  title: 'Ai周刊',
   author: 'zhanglearning',
   description: '记录Python、机器学习、深度学习、大模型硬核技术和有趣应用，每周一发布，欢迎关注',
   keywords: '章北海,Weekly,Python,机器学习,深度学习,大模型,machine learning,deep learning,LLM',
