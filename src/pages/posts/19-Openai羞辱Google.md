@@ -1,13 +1,13 @@
 ---
 date: 2024/05/16
 ---
-<img src="https://r2.zhanglearning.com/blog/2024/05/179e74101af5f06b1f6aa8e32241b51d.png" width="800" />  
+<img src="https://r2.zhanglearning.com/blog/2024/05/179e74101af5f06b1f6aa8e32241b51d.png" width="800" />
 
-<small>海棠诗社 haitang.app 每一首诗都有简介、注释、翻译、评价</small>  
+<small>海棠诗社 haitang.app 每一首诗都有简介、注释、翻译、评价</small>
 
 
 
-机器学习周刊：关注 Python、机器学习、深度学习、大模型等硬核技术
+Ai周刊：关注 Python、机器学习、深度学习、大模型等硬核技术
 
 本期目录：
 
@@ -20,7 +20,7 @@ date: 2024/05/16
 
 OpenAI 直接开放 GPT-4o，能力横跨语音、文本和视觉，免费用户也可以直接用！https://chatgpt.com/
 
-在 API 方面，GPT-4o 的价格是 GPT-4-turbo 的一半，速度却是 GPT-4-turbo 的两倍，速率限制也高 5 倍。  
+在 API 方面，GPT-4o 的价格是 GPT-4-turbo 的一半，速度却是 GPT-4-turbo 的两倍，速率限制也高 5 倍。
 
 最惊艳的是 OpenAI 在现场的展示，在与 GPT-4o 语音对话过程中，三人随意打断，GPT-4o 反应极快，并且语气相当丰富，像极了在跟人类聊天
 
@@ -149,7 +149,7 @@ https://github.com/mustafaaljadery/gemma-2b-10m
 
 在线体验：https://huggingface.co/spaces/ashawkey/lgm
 
-项目地址：https://me.kiui.moe/lgm/  
+项目地址：https://me.kiui.moe/lgm/
 
 github: https://github.com/3dtopia/lgm
 
@@ -195,27 +195,27 @@ https://github.com/lecepin/WeChatVideoDownloader/releases
 
 方式三：
 https://github.com/putyy/res-downloader
-  
+
 网络资源嗅探资源下载器，支持：微信视频号下载、网页抖音无水印下载、网页快手无水印视频下载、酷狗音乐下载等网络资源拦截下载！
 
 ### 高性能的大数据无代码平台：teable
 
 主要特点包括：
 
-📊 表格界面：类似电子表格的操作方式，支持单元格编辑、公式、条件格式、图表等功能。  
-🗂️ 丰富视图：除了表格视图，还提供看板、日历、画廊、表单、甘特图等多种数据展现方式。  
+📊 表格界面：类似电子表格的操作方式，支持单元格编辑、公式、条件格式、图表等功能。
+🗂️ 丰富视图：除了表格视图，还提供看板、日历、画廊、表单、甘特图等多种数据展现方式。
 🚀 卓越性能：可以轻松处理数百万数据，支持批量操作，有自动索引优化。
-👨‍💻 原生 #SQL 支持：可以使用 SQL 直接查询，兼容 #Metabase、#PowerBI 等 #BI 工具。  
-🧠 AI Copilot：通过 AI 对话来辅助开发应用、生成图表、调整视图、设置自动化等。  
-🔒 数据安全：支持数据本地存储，有完善的权限管理。  
-⚡️ 实时协作：数据可实时更新，支持协作成员管理。  
-🧩 可扩展：基于 #React，可以低成本定制和扩展应用。  
-🤖 流程自动化：可通过 #AI 或可视化方式设计自动化流程。  
+👨‍💻 原生 #SQL 支持：可以使用 SQL 直接查询，兼容 #Metabase、#PowerBI 等 #BI 工具。
+🧠 AI Copilot：通过 AI 对话来辅助开发应用、生成图表、调整视图、设置自动化等。
+🔒 数据安全：支持数据本地存储，有完善的权限管理。
+⚡️ 实时协作：数据可实时更新，支持协作成员管理。
+🧩 可扩展：基于 #React，可以低成本定制和扩展应用。
+🤖 流程自动化：可通过 #AI 或可视化方式设计自动化流程。
 🗄️ 多数据库支持：兼容 #Sqlite、#PostgreSQL、#MySQL 等数据库。
 
 可以将 Teable 视为 Airtable 的大数据替代品，在保留电子表格式的易用性的同时，还兼具传统数据库的高性能和稳定性，非常适合企业级的数据管理应用开发。
 
-🌐 链接：https://github.com/teableio/teable  
+🌐 链接：https://github.com/teableio/teable
 🚀 一键部署：https://bja.sealos.run/?openapp=system-template%3FtemplateName%3Dteable
 
 

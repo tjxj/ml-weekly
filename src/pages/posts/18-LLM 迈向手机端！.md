@@ -1,11 +1,11 @@
 ---
 date: 2024/04/28
 ---
-<img src="https://r2blog.zhanglearning.com/2024/04/0eeb9eda62ad4267bfd128e3fea6f6b2.png" width="800" />  
+<img src="https://r2blog.zhanglearning.com/2024/04/0eeb9eda62ad4267bfd128e3fea6f6b2.png" width="800" />
 
-<small>主打尊重隐私的搜索引擎 duckduckgo，也推出了 ai chat 服务，可以使用 chatgpt 或者 claude</small>  
+<small>主打尊重隐私的搜索引擎 duckduckgo，也推出了 ai chat 服务，可以使用 chatgpt 或者 claude</small>
 
-机器学习周刊：关注 Python、机器学习、深度学习、大模型等硬核技术
+Ai周刊：关注 Python、机器学习、深度学习、大模型等硬核技术
 
 本期目录：
 
@@ -25,7 +25,7 @@ Demo: https://huggingface.co/spaces/Qwen/Qwen1.5-110B-Chat-demo
 
 支持高达 32k token 的上下文长度。
 
-提供包括英语、中文、法语、西班牙语、日语、韩语、越南语等多种语言的多语言支持。 
+提供包括英语、中文、法语、西班牙语、日语、韩语、越南语等多种语言的多语言支持。
 
 qwen2 也即将发布。
 
@@ -82,9 +82,9 @@ github: https://github.com/cohere-ai/cohere-toolkit
 博客地址：
 https://news.microsoft.com/source/features/ai/the-phi-3-small-language-models-with-big-potential/?ocid=fy24_soc_omc_br_x_phi3
 
-1）参数：拥有 38 亿参数  
-2）性能：与 mixtral 8x7b 和 gpt-3.5 等模型同级  
-3）手机端部署：足够小，且针对手机端进行了优化  
+1）参数：拥有 38 亿参数
+2）性能：与 mixtral 8x7b 和 gpt-3.5 等模型同级
+3）手机端部署：足够小，且针对手机端进行了优化
 4）更多模型：还提供了 70 亿 和 140 亿 的 phi-3-small 和 phi-3-medium 模型，性能远超 phi-3-mini
 
 ![](https://r2blog.zhanglearning.com/2024/04/8b4539c2890cb59a14fa1956c9f4bd4d.png)
@@ -99,7 +99,7 @@ github 地址：
 https://github.com/salt-nlp/culturebank
 
 
-culturebank 通过从 tiktok 和 reddit 等在线社区收集用户自述，构建了一个包含 1.2 万个文化描述符的数据库。与以往的文化知识资源不同，culturebank 不仅包含了多样的文化观点，还提供了具体的文化场景，以帮助对语言模型进行基于上下文的评估。对现有的大型语言模型（llms）进行文化意识评估，并微调了一个语言模型以提高其在文化相关任务上的表现。展示了如何将构建的管道应用于 reddit，证明了其可转移性。 
+culturebank 通过从 tiktok 和 reddit 等在线社区收集用户自述，构建了一个包含 1.2 万个文化描述符的数据库。与以往的文化知识资源不同，culturebank 不仅包含了多样的文化观点，还提供了具体的文化场景，以帮助对语言模型进行基于上下文的评估。对现有的大型语言模型（llms）进行文化意识评估，并微调了一个语言模型以提高其在文化相关任务上的表现。展示了如何将构建的管道应用于 reddit，证明了其可转移性。
 
 文章还讨论了提高语言模型文化意识的未来方向，包括使用多样化的数据源、考虑文化内容的多个维度、进行深入的数据分析，以及在训练文化意识语言技术时考虑多轮对话设置和设计良好的训练范式。最后，文章提出了对文化数据的处理需要尊重个体和群体的尊严、隐私和文化敏感性，并呼吁社区共同努力，促进文化多样性和包容性。
 
@@ -154,11 +154,11 @@ https://github.com/facebookresearch/llm-transparency-tool
 
 
 ### 10、mistral 系列模型
-mistral large：闭源，他家最强的模型，接近 gpt-4  
-mistral next：闭源，传言是新架构的模型  
-mistral medium：闭源，大致对应千问 1.5 72b 的能力  
-mixtral 8x22b：目前开源最佳  
-mistral small：即 mixtral 8x7b，最早的开源 moe 模型  
+mistral large：闭源，他家最强的模型，接近 gpt-4
+mistral next：闭源，传言是新架构的模型
+mistral medium：闭源，大致对应千问 1.5 72b 的能力
+mixtral 8x22b：目前开源最佳
+mistral small：即 mixtral 8x7b，最早的开源 moe 模型
 mistral tiny：即 mistral 7b，7b 最佳基座
 
 ![](https://r2blog.zhanglearning.com/2024/04/a1d23f6d21faa311abe01b3d24f2c91f.png)

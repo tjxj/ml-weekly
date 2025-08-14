@@ -2,13 +2,13 @@
 date: 2024/05/27
 ---
 
-<img src="https://r2.zhanglearning.com/blog/2024/05/9c7250733ae8fade24f6c9c58a4a214c.png" width="800" />  
+<img src="https://r2.zhanglearning.com/blog/2024/05/9c7250733ae8fade24f6c9c58a4a214c.png" width="800" />
 
-<small>冷知识：2024 年已过 40%</small>  
+<small>冷知识：2024 年已过 40%</small>
 
 
 
-机器学习周刊：关注 Python、机器学习、深度学习、大模型等硬核技术
+Ai周刊：关注 Python、机器学习、深度学习、大模型等硬核技术
 
 本期目录：
 
@@ -60,25 +60,25 @@ Tap4 AI Web UI 是一款开源的 AI 导航站模板，项目非常轻量级，�
 
 ### [2024 GitHub 加速器：开源 AI 11 个项目](https://github.blog/2024-05-23-2024-github-accelerator-meet-the-11-projects-shaping-open-source-ai/)
 
-GitHub 加速器宣布了 2024 年入选的 11 个开源 AI 项目，它们代表了全球开源 AI 领域的创新和加速发展。项目包括机器学习和 AI 框架、生物学和疾病发现、模型训练和微调工具、仿真、部署和全生产化系统、多模态和 3D AI 能力，以及从可穿戴设备到 AI 驱动机器人的新兴接口和设备。 
+GitHub 加速器宣布了 2024 年入选的 11 个开源 AI 项目，它们代表了全球开源 AI 领域的创新和加速发展。项目包括机器学习和 AI 框架、生物学和疾病发现、模型训练和微调工具、仿真、部署和全生产化系统、多模态和 3D AI 能力，以及从可穿戴设备到 AI 驱动机器人的新兴接口和设备。
 
-11 个入选的开源 AI 项目： 
+11 个入选的开源 AI 项目：
 
-- Unsloth AI@UnslothAI 由 Daniel Han 和 Michael Han 创立，旨在使自定义 AI 模型更易访问。Unsloth 通过新兴技术和能力，使其比竞争对手快 2-5 倍，内存使用减少 70%，同时保持模型的性能和准确性。 
+- Unsloth AI@UnslothAI 由 Daniel Han 和 Michael Han 创立，旨在使自定义 AI 模型更易访问。Unsloth 通过新兴技术和能力，使其比竞争对手快 2-5 倍，内存使用减少 70%，同时保持模型的性能和准确性。
 
-- Giskard@giskard_ai  由 Alex Combessie 和 Weixuan XIAO 创立，是一个用于测试和评估 LLMs 的开源库。Giskard 旨在提高开源 AI 模型的质量，推动整体采用、研究、透明度和问责性。 
+- Giskard@giskard_ai  由 Alex Combessie 和 Weixuan XIAO 创立，是一个用于测试和评估 LLMs 的开源库。Giskard 旨在提高开源 AI 模型的质量，推动整体采用、研究、透明度和问责性。
 
-- A-Frame@aframevr 由 Diego Marcos 共同创建和维护，是一个框架，旨在使任何人在网络浏览器中都能轻松开发 AR/VR 和 3D 内容。A-Frame 专注于集成 AI 工作流程，例如 3D 高斯溅射和生成性 AI，以创建图像和环境。 
+- A-Frame@aframevr 由 Diego Marcos 共同创建和维护，是一个框架，旨在使任何人在网络浏览器中都能轻松开发 AR/VR 和 3D 内容。A-Frame 专注于集成 AI 工作流程，例如 3D 高斯溅射和生成性 AI，以创建图像和环境。
 
-- Nav2 由机器人专家 Steve Macenski 创立，是 Robot Operating System (ROS) 导航框架的先驱。Nav2 是全球部署最广泛的自主移动机器人（AMR）导航解决方案，被 100 多家公司信赖。 
+- Nav2 由机器人专家 Steve Macenski 创立，是 Robot Operating System (ROS) 导航框架的先驱。Nav2 是全球部署最广泛的自主移动机器人（AMR）导航解决方案，被 100 多家公司信赖。
 
-- OpenWebUI@OpenWebUI 由 Tim Baek 创立，旨在为 AI 和 LLMs 构建最佳用户界面，为那些互联网访问受限的人提供利用 AI 技术的机会。OpenWebUI 通过 Web 界面本地运行 LLMs，使 AI 和 LLMs 更安全、更私密。 
+- OpenWebUI@OpenWebUI 由 Tim Baek 创立，旨在为 AI 和 LLMs 构建最佳用户界面，为那些互联网访问受限的人提供利用 AI 技术的机会。OpenWebUI 通过 Web 界面本地运行 LLMs，使 AI 和 LLMs 更安全、更私密。
 
-- LLMware AI 由 Namee Oberst 创立，她与 CEO Darren Oberst 和 Stefan Bachhofner 一起，旨在为金融和法律机构构建安全和敏感的 LLM AI Agent 和 RAG 模型。 
-- LangDrive 由 Michael Vandi 和 Spmatika 创立，他们在 CMU 攻读硕士学位期间构建了一个 LLM 电子邮件代理。LangDrive 是一个简单的框架，通过 API 和配置文件训练和部署生产级别的微调语言模型。 
-- HackingBuddyGPT 由 Andreas Happe 和 Jurgen Cito 创立，旨在帮助道德黑客和安全专业人员利用 LLMs 使世界更安全。HackingBuddyGPT 是一个自主的黑客伙伴，具有人在环路中的基础设施。 
-- Web-Check 由 Alicia Sykes 创立，她是一位开源倡导者，旨在通过基于任何网站或服务器的开放数据提供 AI 驱动的安全洞察，使互联网更安全。 
-- Marimo@marimo_io 由 Akshay Agrawal 和 Myles Scolnick 共同创立，旨在解决数据科学和机器学习 Notebook 使用中的所有问题。Marimo 是一个下一代 Python Notebook，为 AI/ML 开发者提供可复现、可维护和可生产的 Notebook。 
+- LLMware AI 由 Namee Oberst 创立，她与 CEO Darren Oberst 和 Stefan Bachhofner 一起，旨在为金融和法律机构构建安全和敏感的 LLM AI Agent 和 RAG 模型。
+- LangDrive 由 Michael Vandi 和 Spmatika 创立，他们在 CMU 攻读硕士学位期间构建了一个 LLM 电子邮件代理。LangDrive 是一个简单的框架，通过 API 和配置文件训练和部署生产级别的微调语言模型。
+- HackingBuddyGPT 由 Andreas Happe 和 Jurgen Cito 创立，旨在帮助道德黑客和安全专业人员利用 LLMs 使世界更安全。HackingBuddyGPT 是一个自主的黑客伙伴，具有人在环路中的基础设施。
+- Web-Check 由 Alicia Sykes 创立，她是一位开源倡导者，旨在通过基于任何网站或服务器的开放数据提供 AI 驱动的安全洞察，使互联网更安全。
+- Marimo@marimo_io 由 Akshay Agrawal 和 Myles Scolnick 共同创立，旨在解决数据科学和机器学习 Notebook 使用中的所有问题。Marimo 是一个下一代 Python Notebook，为 AI/ML 开发者提供可复现、可维护和可生产的 Notebook。
 
 - Talkd AI @talkd_ai  由 Vinicious Mesel 创立，他开始兼职开发 Talkd AI，以构建一个统一的 LLM 聊天 API，为多个 LLMs 和上下文提供抽象层。Talkd AI 旨在促进和传播 LLMs 中 RAG 技术的使用方法。
 
@@ -87,7 +87,7 @@ GitHub 加速器宣布了 2024 年入选的 11 个开源 AI 项目，它们代�
 
 
 ### [AI 智能图像分割](https://segmentify.app/zh)
-<video src="https://teamaker-1251887421.cos.ap-guangzhou.myqcloud.com/segany.mp4" />  
+<video src="https://teamaker-1251887421.cos.ap-guangzhou.myqcloud.com/segany.mp4" />
 
 
 
@@ -106,7 +106,7 @@ Ulgradients 是一个主打渐变风网站，设计师可根据自己风格来�
 ## 知识库
 ### [Phi-3 CookBook](https://github.com/microsoft/Phi-3CookBook)
 
-Phi-3 是微软开发的一系列开放 AI 模型，是目前功能最强大、性价比最高的小型语言模型，分为 mini、small、vision 和 medium 等版本。 
+Phi-3 是微软开发的一系列开放 AI 模型，是目前功能最强大、性价比最高的小型语言模型，分为 mini、small、vision 和 medium 等版本。
 
 关于 Phi-3 入门的 Phi-3 CookBook，主要内容：
 · Phi-3 介绍和快速上手

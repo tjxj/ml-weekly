@@ -2,13 +2,13 @@
 date: 2024/06/02
 ---
 
-<img src="https://r2blog.zhanglearning.com/2024/06/ccaf952193ffbd04a4cebc77e342f041.png" width="800" />  
+<img src="https://r2blog.zhanglearning.com/2024/06/ccaf952193ffbd04a4cebc77e342f041.png" width="800" />
 
-<small>OpenAI 推出了 GPT-4o 模型，并将 GPTs 等高级工具免费提供给 ChatGPT 用户。</small>  
+<small>OpenAI 推出了 GPT-4o 模型，并将 GPTs 等高级工具免费提供给 ChatGPT 用户。</small>
 
 
 
-机器学习周刊：关注 Python、机器学习、深度学习、大模型等硬核技术
+Ai周刊：关注 Python、机器学习、深度学习、大模型等硬核技术
 
 本期目录：
 
@@ -40,11 +40,11 @@ date: 2024/06/02
 ### [huggingchat 新功能](https://huggingface.co/chat/ "huggingchat 新功能")
 
 huggingchat 现在支持工具调用了，目前共 6 个工具：
-· web search 网页搜索：查询网络并在检索到的内容上执行与用户查询相关的 rag  
-· url fetcher url 获取器：从给定的 url 获取文本内容  
-· document parser 文档解析器：解析 pdf、文本、csv、json 等格式的内容  
-· image generation 图像生成：根据给定的文本提示生成图像  
-· image editing 图像编辑：根据给定的文本提示编辑图像   
+· web search 网页搜索：查询网络并在检索到的内容上执行与用户查询相关的 rag
+· url fetcher url 获取器：从给定的 url 获取文本内容
+· document parser 文档解析器：解析 pdf、文本、csv、json 等格式的内容
+· image generation 图像生成：根据给定的文本提示生成图像
+· image editing 图像编辑：根据给定的文本提示编辑图像
 · calculator 计算器：一个简单的计算器，用于评估数学表达式
 
 ![](https://r2blog.zhanglearning.com/2024/06/0c3f26d060e43fc461c151f3382cb6e8.png)
@@ -70,7 +70,7 @@ huggingchat 现在支持工具调用了，目前共 6 个工具：
 
 ![](https://r2blog.zhanglearning.com/2024/06/8dfad7107461e6ffb14f944dc841985c.png)
 
-### 谷歌推出 Gemini 1.5 Pro 和 1.5 Flash 
+### 谷歌推出 Gemini 1.5 Pro 和 1.5 Flash
 
 提供更高的请求限制，并支持自定义模型调整。Gemini 1.5 Flash 针对高容量任务优化，现已提升到每分钟 1000 个请求且取消每日请求限制。还引入了 JSON schema 模式、移动端支持和 Google AI Studio 的浅色模式。
 
@@ -108,7 +108,7 @@ ChatTTS Web UI: https://github.com/jianchang512/ChatTTS-ui
 ### [AI 开源搜索引擎：Perplexity-Inspired LLM Answer Engine ](https://github.com/developersdigest/llm-answer-engine "AI 开源搜索引擎：Perplexity-Inspired LLM Answer Engine ")
 
 受 Perplexity 启发的 LLM 搜索引擎开源项目，使用到的主要 API 包括：
-- LLM API:  Groq, Mixtral 
+- LLM API:  Groq, Mixtral
 - Embeddings:  OpenAI Embeddings
 - LLM 框架：Langchain.JS
 - 搜索服务：Brave Search, Serper API
@@ -130,10 +130,10 @@ FFC 很适合自学编程的人，你可以在这里学习包括网页设计、J
 
 ### [基于 llm.c 复现了 124M 参数的 GPT-4](https://github.com/karpathy/llm.c/discussions/481 "基于 llm.c 复现了 124M 参数的 GPT-4")
 
-仅需 20 美刀💰和 90 分钟，前 OpenAI 创始成员 
+仅需 20 美刀💰和 90 分钟，前 OpenAI 创始成员
 @karpathy 基于 llm.c 复现了 124M 参数的 GPT-4，并公布了如何在 A100 上从零开始复现运行的全部细节🥳👍
- 
- 
+
+
 ### [苹果公布了 2024 年“苹果设计大奖”入围作品](https://developer.apple.com/design/awards/ "苹果公布了 2024 年“苹果设计大奖”入围作品")
 
 

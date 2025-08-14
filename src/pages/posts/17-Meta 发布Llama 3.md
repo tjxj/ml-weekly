@@ -2,11 +2,11 @@
 date: 2024/04/20
 ---
 
-<img src="https://r2blog.zhanglearning.com/2024/04/3a5ce0e094e8f11f55584bad560b233f.jpeg" width="800" />  
+<img src="https://r2blog.zhanglearning.com/2024/04/3a5ce0e094e8f11f55584bad560b233f.jpeg" width="800" />
 
-<small>在内部讲话中，李彦宏对大模型开源与闭源的路线选择，以及 AI 创业者应该专注模型还是应用等业界焦点话题，发表了自己的看法。</small>  
+<small>在内部讲话中，李彦宏对大模型开源与闭源的路线选择，以及 AI 创业者应该专注模型还是应用等业界焦点话题，发表了自己的看法。</small>
 
-机器学习周刊：关注 Python、机器学习、深度学习、大模型等硬核技术
+Ai周刊：关注 Python、机器学习、深度学习、大模型等硬核技术
 
 本期目录：
 [toc]
@@ -25,7 +25,7 @@ Meta 官方数据显示，Llama 3 8B 和 70B 版本在语言（MMLU）、知识�
 
 ### 2、「抱抱脸」公司的免费对话服务现在提供六种模型
 
-「抱抱脸」公司的免费对话服务现在提供六种模型，包括 Command R+、基于 Mixtral-8x22B 模型的调参版本 
+「抱抱脸」公司的免费对话服务现在提供六种模型，包括 Command R+、基于 Mixtral-8x22B 模型的调参版本
 
 网址：https://huggingface.co/chat/models
 
@@ -50,11 +50,11 @@ Meta 官方数据显示，Llama 3 8B 和 70B 版本在语言（MMLU）、知识�
 
 
 1. **AI 堆栈的演变**：2023 年见证了新工具的爆炸性增长，特别是在 Stable Diffusion 和 ChatGPT 引入之后。然而，从 2023 年 9 月开始，增长曲线趋于平稳，可能的原因包括：低挂果实已被摘取、生成 AI 领域的竞争加剧以及人们对生成 AI 的兴趣有所降温。
-   
+
 2. **开源 AI 开发者**：开源软件遵循长尾分布，少数账户控制着大部分仓库。文章提到，有 20 个账户至少有 4 个仓库，这些账户托管了 195 个仓库，占列表中所有仓库的 23%。
-   
+
 3. **中国的开源生态系统**：中国的 AI 生态系统与美国有所不同，GitHub 在中国的流行 AI 仓库中占有一席之地，许多仓库的描述是用中文写的。
-   
+
 4. **快速增长和快速衰退的模式**：作者观察到一种模式，即许多仓库迅速获得大量关注，然后迅速沉寂。这种现象被称为“炒作曲线”。
 
 ### 4、李彦宏内部讲话曝光：开源模型会越来越落后
@@ -169,9 +169,9 @@ Meta 官方数据显示，Llama 3 8B 和 70B 版本在语言（MMLU）、知识�
 
  🤓 在 Mixtral 8x22B 上微调的大型 8x22B 模型（推荐 96GB+ VRAM）
 
- 👇 👇 👇 
+ 👇 👇 👇
 
- https://github.com/ollama/ollama/releases 
+ https://github.com/ollama/ollama/releases
 
 ![](https://r2.zhanglearning.com/blog/2024/04/b9c96fa9ccad87a5c15a83982da36278.png)
 
@@ -181,9 +181,9 @@ torchtune 是一个 PyTorch 原生库，用于微调 LLMs。它将可破解的�
 
 一个用于轻松微调 LLMs 的 PyTorch 原生库！
 
-代码：https://github.com/pytorch/torchtune 
-博客：https://pytorch.org/blog/torchtune-fine-tune-llms/ 
-教程：https://pytorch.org/torchtune/stable/index.html#tutorials 
+代码：https://github.com/pytorch/torchtune
+博客：https://pytorch.org/blog/torchtune-fine-tune-llms/
+教程：https://pytorch.org/torchtune/stable/index.html#tutorials
 
 - 精益、可扩展、无抽象的设计。没有训练器或框架，只有 PyTorch！
 - 内存效率 - 我们在具有 24GB VRAM 的消费级 GPU 上测试我们的配方
